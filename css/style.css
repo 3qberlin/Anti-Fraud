@@ -433,3 +433,7 @@ ul li {
     right: 47%;
     top: 184px;
 }
+
+.nowrap{
+    white-space: nowrap;
+}
